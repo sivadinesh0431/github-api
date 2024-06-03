@@ -4,7 +4,7 @@ $ export username="YOUR_GITHUB_USERNAME"
 
 $ export token="YOUR_GITHUB_ACCESS_TOKEN"
 
-
+<hr>
 <b>Now run the bash file with 2 command line arguments, </b>
 
 
