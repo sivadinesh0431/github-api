@@ -1,4 +1,4 @@
-Before running the code, please export your environment variables username and token,
+<b>Before running the code, please export your environment variables username and token,</b>
 
 $ export username="YOUR_GITHUB_USERNAME"
 
